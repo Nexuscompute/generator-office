@@ -44,7 +44,7 @@
     "office-addin-manifest": "^1.12.0",
     "office-addin-usage-data": "^1.6.4",
     "open": "^8.4.0",
-    "unzipper": "0.10.11",
+    "unzipper": "0.11.4",
     "uuid": "^8.3.2",
     "yeoman-generator": "^5.8.0",
     "yosay": "^2.0.2"
