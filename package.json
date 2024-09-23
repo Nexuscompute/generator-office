@@ -38,7 +38,7 @@
     "project"
   ],
   "dependencies": {
-    "adm-zip": "0.5.12",
+    "adm-zip": "0.5.16",
     "axios": "^1.7.7",
     "chalk": "^4.0.0",
     "lodash": "^4.17.21",
